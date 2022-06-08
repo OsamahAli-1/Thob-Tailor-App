@@ -18,3 +18,11 @@ It displays detailed information about size of selected customer and it calculat
 This page allows the user to enter new cutomer size and save it.
 
 ![TTNEWSIZE](https://user-images.githubusercontent.com/96534700/172598199-3d8f6588-12aa-464e-83b0-ddda87936d35.jpg)
+
+## How to run the app:
+### 1: install dependencies in both client and server
+##### - in client directory in terminal write ```npm install``` and after it downloads start the app by writing ```npm start```
+##### - in server directory in terminal write ```npm install``` and after it downloads start the app by writing ```node index```
+### 2: databese setup:
+##### -
+##### - create ```.env ``` file in server directory and put write inside DATABAE_PASSWORD = "your database password"
