@@ -11,6 +11,6 @@ CREATE TABLE CustomerSize(
     c_width NUMERIC,
     c_description VARCHAR(2000),
     c_fabric_name VARCHAR(100),
-    c_date DATE NOT NULL DEFAULT CURRENT_DATE
+    c_date DATE NOT NULL DEFAULT CURRENT_DATE,
+    c_phone NUMERIC
 )
-INSERT INTO CustomerSize (c_name,c_tall,c_shoulder,c_arm,c_neck,c_width,c_description,c_fabric_name) VALUES ('ALI',55,15,22,7,24,'Use style number 6 for pocket','112 Japan made')
