@@ -25,4 +25,4 @@ This page allows the user to enter new cutomer size and save it.
 ##### - in server directory in terminal write ```npm install``` and after it downloads start the app by writing ```node index```
 ### 2: databese setup:
 ##### - create databse and table using commands in server/database.sql 
-##### - create ```.env ``` file in server directory and put write inside DATABASE_USER_PASSWORD = "your database password"
+##### - create ".env"  file in server directory and write inside DATABASE_USER_PASSWORD = "your database password"
