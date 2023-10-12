@@ -1,6 +1,6 @@
 # Thob-Tailor-App
 
-Thob tailor app is an app tailors can use to record customers' Thob (Arab men dress) size and then save to PostgreSQL database, and the main feature of the app is that it automatically calculate how many meters of fabric needed to make the Thob based on size.<br /> The app built using PERN stack
+Thob tailor app is an app tailors can use to record customers' Thob (Arab men dress) size and then save to PostgreSQL database, and the main feature of the app is that it automatically calculate how many meters of fabric needed to make the Thob based on size.<br /> The app built using PERN stack.
 
 ## the app consists of 3 pages:
 ### 1: Home page:
