@@ -9,7 +9,7 @@ It dislays recoreded saizes, and also user can search for certain customer, and 
 ![TTHOME](https://user-images.githubusercontent.com/96534700/172597538-14fec1bd-d250-4eeb-8a33-5f4b9bd88fd5.jpg)
 
 ### 2: Summary page:
-It displays detailed information about size of selected customer and it calculate needed fabric to make the Thob
+It displays detailed information about size of selected customer and it calculate needed fabric to make the Thob.
 
 ![TTSUMMARY](https://user-images.githubusercontent.com/96534700/172598045-63c9a46e-1dbb-477b-9443-fd49fefe5322.jpg)
 
